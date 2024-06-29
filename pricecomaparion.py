@@ -1,4 +1,4 @@
-//sample program to compare the prices of two products with the help of web scrapping 
+#sample program to compare the prices of two products with the help of web scrapping 
 import requests
 from bs4 import BeautifulSoup
 import re
